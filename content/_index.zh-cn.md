@@ -4,7 +4,7 @@ description: "此页面是使用 Hugo 的 Blowfish 主题搭建的"
 ---
 
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
+<!-- <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
     {{< icon "triangle-exclamation" >}}
   </span>
@@ -24,6 +24,6 @@ description: "此页面是使用 Hugo 的 Blowfish 主题搭建的"
 npx blowfish-tools
 ```  
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
+{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}} -->
 
 

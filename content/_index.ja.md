@@ -3,7 +3,7 @@ title: "Blowfish へようこそ! :tada:"
 description: "このページは Hugo の Blowfish テーマを利用して構築されています。"
 ---
 
-
+<!-- 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
     {{< icon "triangle-exclamation" >}}
@@ -24,6 +24,6 @@ description: "このページは Hugo の Blowfish テーマを利用して構�
 npx blowfish-tools
 ```  
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
+{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}} -->
 
 

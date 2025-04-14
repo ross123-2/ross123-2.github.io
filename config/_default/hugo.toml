@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "basic"
+theme = "blowfish"
 baseURL = "https://ross123-2.github.io"
 defaultContentLanguage = "it"
 disableLanguages = [] #to allow translation work requiring shipping to production
