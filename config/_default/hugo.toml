@@ -5,7 +5,7 @@
 theme = "blowfish"
 baseURL = "https://ross123-2.github.io"
 defaultContentLanguage = "it"
-disableLanguages = [] #to allow translation work requiring shipping to production
+disableLanguages = ["en"] #to allow translation work requiring shipping to production
 
 publishDir = "docs"
 

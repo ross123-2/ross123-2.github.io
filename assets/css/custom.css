@@ -37,3 +37,10 @@
 html {
     font-family: quicksand;
 }
+
+.logo,
+.logo img,
+.logo svg {
+    padding-top: 1.0rem;
+    padding-bottom: 1.0rem;
+}
