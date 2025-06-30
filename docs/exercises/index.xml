@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esercizi on Balance</title>
+    <link>http://localhost:1313/exercises/</link>
+    <description>Recent content in Esercizi on Balance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>© 2025 Balance</copyright>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/exercises/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Chiudi gli occhi</title>
+      <link>http://localhost:1313/exercises/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/exercises/welcome/</guid>
+      <description>&lt;p&gt;10 minuti di relax profondo&lt;/p&gt;
+&lt;p&gt;Hai dieci minuti? Regalati una pausa.
+Questo è il tuo spazio. Un tempo per rallentare, per ascoltarti, per lasciare andare.&lt;/p&gt;
+&lt;p&gt;Chiudi gli occhi.
+Lascia scivolare via le tensioni.
+Inspira profondamente… ed espira lentamente.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/exercises/welcome/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Respira insieme a me</title>
+      <link>http://localhost:1313/exercises/breathe/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/exercises/breathe/</guid>
+      <description>&lt;p&gt;Prenditi 3 minuti. Solo per te.&lt;/p&gt;
+&lt;p&gt;In questo breve spazio di tempo, lascia andare i pensieri, chiudi gli occhi e torna al respiro.&lt;/p&gt;
+&lt;p&gt;Non c’è niente da fare, niente da raggiungere. Solo essere. Solo ascoltare.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/exercises/breathe/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Sorridi</title>
+      <link>http://localhost:1313/exercises/smile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/exercises/smile/</guid>
+      <description>&lt;p&gt;5 minuti di meditazione e positività&lt;/p&gt;
+&lt;p&gt;Prenditi questo momento per connetterti con ciò che di bello vive dentro di te.
+Bastano 5 minuti per cambiare il tono della tua giornata.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/exercises/smile/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Uno spazio per te</title>
+      <link>http://localhost:1313/exercises/spaces/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/exercises/spaces/</guid>
+      <description>&lt;p&gt;Uno spazio grigio dove poter mettere radici&lt;/p&gt;
+&lt;p&gt;Non sempre servono colori forti.
+A volte, è nel grigio che troviamo pace.
+Nel mezzo, nel silenzio, nell’attesa.&lt;/p&gt;
+&lt;p&gt;Questo è uno spazio vuoto, ma non freddo.
+È terra neutra, sospesa, fertile.
+Qui puoi fermarti. Qui puoi respirare.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/exercises/spaces/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Vivi</title>
+      <link>http://localhost:1313/exercises/live/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/exercises/live/</guid>
+      <description>&lt;p&gt;Uno spazio grigio per vivere la vita al meglio&lt;/p&gt;
+&lt;p&gt;Nel mezzo di tutto — tra il bianco e il nero, tra l’agitazione e la calma — esiste uno spazio grigio.
+Uno spazio senza rumore, senza aspettative.
+Solo presenza. Solo respiro.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/exercises/live/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Connettiti</title>
+      <link>http://localhost:1313/exercises/connection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/exercises/connection/</guid>
+      <description>&lt;p&gt;5 minuti per riconnettere corpo e mente&lt;/p&gt;
+&lt;p&gt;La vita corre veloce.
+La mente vaga, il corpo si irrigidisce, e spesso ci dimentichiamo di essere interi.&lt;/p&gt;
+&lt;p&gt;Questa breve meditazione è un invito a tornare a casa.
+A rientrare nel corpo. A rallentare il pensiero.
+A sentire.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/exercises/connection/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
